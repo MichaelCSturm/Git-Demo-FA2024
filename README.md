@@ -3,6 +3,10 @@
 
 ### Third commit less go
 
+<<<<<<< HEAD
 
 ### THIS IS MY FOURTH HEADER
 LOOKING AT BRANCHING IN GIT! YOOO YES AHAHA
+=======
+### YOOOO THIS TUTORIAL GOING WELLLL
+>>>>>>> feature-readme-instructions
